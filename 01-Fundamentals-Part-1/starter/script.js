@@ -16,4 +16,4 @@ let practice1 = document.getElementById('practice1').innerHTML = 'Second Contain
 let practice2 = document.getElementById('practice2').innerHTML = 'Thrid Container';
 let practice3 = document.getElementById('practice3').innerHTML = 'Thrid Container';
 
-practice1.onclick(practice1 = 'Not working'); 
+practice1.onclick(practice1 = 'Not working at all'); 
